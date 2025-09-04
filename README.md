@@ -25,13 +25,8 @@ It supports headings, lists, images, links, and more.
 <!-- Images -->
 <h2>🖼️ Screenshots</h2>
 <div align="center">
-  <img src="assets/screenshot1.png" alt="Screenshot 1" width="80%">
+  <img src="https://github.com/nidhiitiwarii/Blinkit-Power-BI-Dashboard/blob/master/Blinkit.png" alt="Screenshot 1" width="80%">
   <p><em>Example Screenshot 1</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/screenshot2.png" alt="Screenshot 2" width="80%">
-  <p><em>Example Screenshot 2</em></p>
 </div>
 
 <!-- Installation -->
